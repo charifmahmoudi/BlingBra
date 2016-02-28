@@ -17,8 +17,8 @@
 
 #define NUMPIXELS      2
 
-char ssid[] = "charif";      //  your network SSID (name)
-char pass[] = "mahmoudi";   // your network password
+char ssid[] = "yourMobileDeviceAP_SSID";      //  your network SSID (name)
+char pass[] = "yourMobileDeviceAP_password";   // your network password
 int keyIndex = 0;                 // your network key Index number (needed only for WEP)
 int ledpin = 6;
 bool val = true;
